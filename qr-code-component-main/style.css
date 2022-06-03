@@ -1,0 +1,12 @@
+/* Universal Styles */
+
+html {}
+
+.attribution {
+    font-size: 46px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}

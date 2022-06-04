@@ -40,3 +40,14 @@ body {
     font-weight: 400;
     color: hsl(220, 15%, 55%);
 }
+
+@media only screen and (max-width: 425px) {
+    .card {
+        min-width: 270px;
+        padding: 1rem;
+        margin: 1rem;
+    }
+    .card-heading {
+        font-size: 1.7rem;
+    }
+}

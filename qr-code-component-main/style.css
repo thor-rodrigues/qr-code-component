@@ -41,6 +41,16 @@ body {
     color: hsl(220, 15%, 55%);
 }
 
+.attribution {
+    position: fixed;
+    font-size: 1.5rem;
+    left: 0;
+    bottom: 1%;
+    width: 100%;
+    text-align: center;
+    color: black;
+}
+
 @media only screen and (max-width: 425px) {
     .card {
         min-width: 270px;
